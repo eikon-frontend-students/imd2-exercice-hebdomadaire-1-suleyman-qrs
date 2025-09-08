@@ -34,6 +34,7 @@ main {
 .coffee-img {
   height: 280px;
   align-self: stretch;
+  margin-bottom: 20px;
 }
 
 .text-content {
